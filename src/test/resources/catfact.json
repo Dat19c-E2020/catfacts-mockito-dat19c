@@ -1,0 +1,16 @@
+{
+  "used": false,
+  "source": "api",
+  "type": "cat",
+  "deleted": false,
+  "_id": "591f98803b90f7150a19c226",
+  "__v": 0,
+  "text": "The cat's footpads absorb the shocks of the landing when the cat jumps.",
+  "updatedAt": "2020-08-23T20:20:01.611Z",
+  "createdAt": "2018-01-04T01:10:54.673Z",
+  "status": {
+    "verified": true,
+    "sentCount": 1
+  },
+  "user": "5a9ac18c7478810ea6c06381"
+}
